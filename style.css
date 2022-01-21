@@ -1,0 +1,89 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    margin: 0%;
+}
+h2{
+    font-size: 50px;
+    color: rgb(32, 67, 78);
+}
+h3{
+    font-size: 40px;
+    color: rgb(32, 67, 78);
+}
+p{
+    color: rgb(73, 67, 67);
+}
+.name-color{
+    color: darkmagenta;
+}
+.list-color{
+    accent-color: orange;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    
+}
+.half-width img{
+    width: 60%;
+}
+.top-banner{
+        background-image: url("images/banner1.jpg");
+        background-repeat: no-repeat;
+        background-size: 100%;
+}        
+section{
+    height: 400px;
+    padding-bottom: 150px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(50deg, rgb(116, 20, 13), rgb(228, 96, 87));
+    padding: 5px 10px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.biography{
+    background-image: url("images/banner3.jpg");
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+#coloring{
+    color: rgb(209, 49, 38);
+    font-weight: 700;
+}
+h1{
+    text-align: center;
+    color: rgb(17, 26, 82);
+}
+.half-img{
+    width: 30%;
+    float: left;
+    margin-left: 1%;
+    background-image: url("images/banner3.jpg");
+    background-size: 100%;
+}
+.shadow{
+    box-shadow: 10px 20px 40px grey;
+    border-radius: 10px;
+    height: 10%;
+    background-color: rgb(83, 216, 205);
+    width: 300px;
+    margin: 10px 20px;
+    padding: 5%;
+    margin: auto;
+}
+.trial{
+    font-weight: 700;
+    color: purple;
+    text-align: center;
+}
+footer p{
+    text-align: center;
+    font-weight: 700;
+    color: blue;
+}
